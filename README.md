@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-NO%20COMMIT-blue.svg)](https://github.com/crowdbotics-challenges/bakery_scaffold_j0jK12aoacVKmPM4)
+[![Status](https://img.shields.io/badge/status-BUILDING%20COMMIT:%203cc46bddfedd4a3bedde53221b28b9999848e250-yellow.svg)](https://github.com/crowdbotics-challenges/bakery_scaffold_j0jK12aoacVKmPM4/commit/3cc46bddfedd4a3bedde53221b28b9999848e250)
+
 
 # Status1
 
